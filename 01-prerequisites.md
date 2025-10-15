@@ -9,7 +9,7 @@ This is the starting point for deploying the [IaaS baseline reference implementa
 
 - An Azure subscription.
 
-   The subscription used in this deployment cannot be a [free account](https://azure.microsoft.com/free); it must be a standard EA, pay-as-you-go, or Visual Studio benefit subscription. This is because the resources deployed here are often beyond the quotas of free subscriptions.
+   The subscription used in this deployment cannot be a [free account](https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn); it must be a standard EA, pay-as-you-go, or Visual Studio benefit subscription. This is because the resources deployed here are often beyond the quotas of free subscriptions.
 
    This subscription is expected to NOT be an actual Azure application landing zone subscription. This is expected be deployed within a sandbox subscription offered by your organization, as long as it meets the following requirements.
 
